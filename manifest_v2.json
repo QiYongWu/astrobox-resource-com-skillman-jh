@@ -1,0 +1,126 @@
+{
+  "item": {
+    "id": "com.skillman.jh",
+    "restype": "quick_app",
+    "name": "饥荒",
+    "description": "天黑之前，先让自己活下来。\n《饥荒》是一款腕上生存冒险游戏。在这片昼夜交替、季节变化的荒野中，你需要收集资源、制作工具、寻找食物，逐步建立属于自己的营地。\n白天，探索地图、伐木采石，为接下来的旅程储备物资；入夜后，点燃篝火，留意周围的危险。生命、饥饿、理智和温度都需要照顾，一顿热食、一件装备，或是一次及时撤退，都可能帮你多活一天。\n选择不同的角色，尝试自己的生存方式。制作武器迎战怪物，把采来的食材变成料理，在一次次探索中积累经验，让最初简陋的营地成为荒野中的落脚处。\n抬起手腕，新的生存挑战就在眼前。\n你能在这片荒野中活过多少天？",
+    "preview": [
+      "media/主页.png",
+      "media/游戏页1.png",
+      "media/图鉴页2.png",
+      "media/背包.png",
+      "media/菜单.png",
+      "media/地图.png",
+      "media/图鉴页1.png",
+      "media/图鉴页3.png",
+      "media/图鉴页4.png",
+      "media/图鉴页5.png",
+      "media/图鉴页6.png",
+      "media/图鉴页7.png",
+      "media/游戏页2.png",
+      "media/游戏页3.png",
+      "media/游戏暂停.png",
+      "media/ip说明.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/分组_6 (1).png",
+    "author": [
+      {
+        "name": "SkillMan",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "宣传片",
+      "url": "https://www.bilibili.com/video/BV1y9Jt6BEzu/?spm_id_from=333.1387.homepage.video_card.click",
+      "icon": "video"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/饥荒1.0.0-NA(红米56).rpk",
+      "versionCode": 1
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/饥荒1.0.0-NA(红米56).rpk",
+      "versionCode": 1
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/饥荒1.0.0-NA(红米56).rpk",
+      "versionCode": 1
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/饥荒1.0.0-NA(米环10).rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/饥荒1.0.0-NA(米环10).rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/饥荒1.0.0-NA(米环9Pro10Pro).rpk",
+      "versionCode": 1
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/饥荒1.0.0-NA(米环10).rpk",
+      "versionCode": 1
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/饥荒1.0.0-NA(米环10).rpk",
+      "versionCode": 1
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/饥荒1.0.0-NA(米环9).rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/饥荒1.0.0-NA(米环9Pro10Pro).rpk",
+      "versionCode": 1
+    },
+    "xmws3": {
+      "version": "1.0.0",
+      "file_name": "downloads/饥荒1.0.0-NA(S345).rpk",
+      "versionCode": 1
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/饥荒1.0.0-NA(S345).rpk",
+      "versionCode": 1
+    },
+    "xmws441": {
+      "version": "1.0.0",
+      "file_name": "downloads/饥荒1.0.0-NA(S345).rpk",
+      "versionCode": 1
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "downloads/饥荒1.0.0-NA(S345).rpk",
+      "versionCode": 1
+    },
+    "xmws541": {
+      "version": "1.0.0",
+      "file_name": "downloads/饥荒1.0.0-NA(S345).rpk",
+      "versionCode": 1
+    },
+    "xmws5": {
+      "version": "1.0.0",
+      "file_name": "downloads/饥荒1.0.0-NA(S345).rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
