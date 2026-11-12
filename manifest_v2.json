@@ -23,7 +23,7 @@
       "media/ip说明.png"
     ],
     "icon": "media/logo.png",
-    "cover": "media/分组_6 (1).png",
+    "cover": "media/分组_6_(1).png",
     "author": [
       {
         "name": "SkillMan",
@@ -33,6 +33,11 @@
   },
   "links": [
     {
+      "title": "同步器下载",
+      "url": "https://pan.quark.cn/s/57abf9a7412b",
+      "icon": "download-simple"
+    },
+    {
       "title": "宣传片",
       "url": "https://www.bilibili.com/video/BV1y9Jt6BEzu/?spm_id_from=333.1387.homepage.video_card.click",
       "icon": "video"
@@ -41,82 +46,82 @@
   "downloads": {
     "xmrw5": {
       "version": "1.0.0",
-      "file_name": "downloads/饥荒1.0.0-NA(红米56).rpk",
+      "file_name": "downloads/饥荒1.0.0(红米5红米6).rpk",
       "versionCode": 1
     },
     "xmrw5xring": {
       "version": "1.0.0",
-      "file_name": "downloads/饥荒1.0.0-NA(红米56).rpk",
+      "file_name": "downloads/饥荒1.0.0(红米5红米6).rpk",
       "versionCode": 1
     },
     "xmrw6": {
       "version": "1.0.0",
-      "file_name": "downloads/饥荒1.0.0-NA(红米56).rpk",
+      "file_name": "downloads/饥荒1.0.0(红米5红米6).rpk",
       "versionCode": 1
     },
     "xmb10": {
       "version": "1.0.0",
-      "file_name": "downloads/饥荒1.0.0-NA(米环10).rpk",
+      "file_name": "downloads/饥荒1.0.0(米环10米环11).rpk",
       "versionCode": 1
     },
     "xmb10nfc": {
       "version": "1.0.0",
-      "file_name": "downloads/饥荒1.0.0-NA(米环10).rpk",
+      "file_name": "downloads/饥荒1.0.0(米环10米环11).rpk",
       "versionCode": 1
     },
     "xmb10p": {
       "version": "1.0.0",
-      "file_name": "downloads/饥荒1.0.0-NA(米环9Pro10Pro).rpk",
+      "file_name": "downloads/饥荒1.0.0(米环9Pro米环10Pro).rpk",
       "versionCode": 1
     },
     "xmb11": {
       "version": "1.0.0",
-      "file_name": "downloads/饥荒1.0.0-NA(米环10).rpk",
+      "file_name": "downloads/饥荒1.0.0(米环10米环11).rpk",
       "versionCode": 1
     },
     "xmb11nfc": {
       "version": "1.0.0",
-      "file_name": "downloads/饥荒1.0.0-NA(米环10).rpk",
+      "file_name": "downloads/饥荒1.0.0(米环10米环11).rpk",
       "versionCode": 1
     },
     "xmb9": {
       "version": "1.0.0",
-      "file_name": "downloads/饥荒1.0.0-NA(米环9).rpk",
+      "file_name": "downloads/饥荒1.0.0(米环9).rpk",
       "versionCode": 1
     },
     "xmb9p": {
       "version": "1.0.0",
-      "file_name": "downloads/饥荒1.0.0-NA(米环9Pro10Pro).rpk",
+      "file_name": "downloads/饥荒1.0.0(米环9Pro米环10Pro).rpk",
       "versionCode": 1
     },
     "xmws3": {
       "version": "1.0.0",
-      "file_name": "downloads/饥荒1.0.0-NA(S345).rpk",
+      "file_name": "downloads/饥荒1.0.0(米表S3S4S5).rpk",
       "versionCode": 1
     },
     "xmws4xring": {
       "version": "1.0.0",
-      "file_name": "downloads/饥荒1.0.0-NA(S345).rpk",
+      "file_name": "downloads/饥荒1.0.0(米表S3S4S5).rpk",
       "versionCode": 1
     },
     "xmws441": {
       "version": "1.0.0",
-      "file_name": "downloads/饥荒1.0.0-NA(S345).rpk",
+      "file_name": "downloads/饥荒1.0.0(米表S3S4S5).rpk",
       "versionCode": 1
     },
     "xmws4": {
       "version": "1.0.0",
-      "file_name": "downloads/饥荒1.0.0-NA(S345).rpk",
+      "file_name": "downloads/饥荒1.0.0(米表S3S4S5).rpk",
       "versionCode": 1
     },
     "xmws541": {
       "version": "1.0.0",
-      "file_name": "downloads/饥荒1.0.0-NA(S345).rpk",
+      "file_name": "downloads/饥荒1.0.0(米表S3S4S5).rpk",
       "versionCode": 1
     },
     "xmws5": {
       "version": "1.0.0",
-      "file_name": "downloads/饥荒1.0.0-NA(S345).rpk",
+      "file_name": "downloads/饥荒1.0.0(米表S3S4S5).rpk",
       "versionCode": 1
     }
   },
